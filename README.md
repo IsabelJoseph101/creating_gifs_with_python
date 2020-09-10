@@ -1,4 +1,4 @@
-# image.image_sequences
+# Creating GIFs with Python
 
 For this project i will be drawing a smiley face using Python and its Pillow library, and also transforming it into an animated gif.
 
